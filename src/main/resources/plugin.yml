@@ -1,0 +1,8 @@
+name: TimerLibrary
+version: '1.0'
+main: com.zabzabdoda.timer.TimerLibrary
+api-version: '1.21'
+commands:
+  timer:
+    description: Main command for a timer
+    usage: /timer
